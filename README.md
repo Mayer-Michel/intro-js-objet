@@ -1,5 +1,5 @@
-# Template de projet frontend NodeJS
-Un container simple équipé de NodeJS v22
+# Intro JS Objet
+Le cours d'introduction au JS en mode Objet
 
 ## Sommaire
 - [Template de projet frontend NodeJS](#template-de-projet-frontend-nodejs)
